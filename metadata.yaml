@@ -1,0 +1,30 @@
+_repo: Owindia---a-true-tale-of-the-MacKenzie-River-Indians-North-West-America_6658
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bompas, Charlotte Selina
+    aliases:
+    - Cox, Charlotte Selina
+    - Bompas, Charlotte Selina Cox
+    birthdate: 1830
+    deathdate: 1917
+    gutenberg_agent_id: '2135'
+    url: http://www.gutenberg.org/2009/agents/2135
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Canada -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Foundlings -- Fiction'
+- GITenberg
+title: 'Owindia : a true tale of the MacKenzie River Indians, North-West America'
+url: http://www.gutenberg.org/ebooks/6658
